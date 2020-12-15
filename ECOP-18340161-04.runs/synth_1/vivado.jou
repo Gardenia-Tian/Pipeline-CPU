@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Thu Dec 12 08:39:41 2019
+# Process ID: 15148
+# Current directory: E:/vivado/ECOP-18340161-04/ECOP-18340161-04.runs/synth_1
+# Command line: vivado.exe -log Basys3.vds -mode batch -messageDb vivado.pb -notrace -source Basys3.tcl
+# Log file: E:/vivado/ECOP-18340161-04/ECOP-18340161-04.runs/synth_1/Basys3.vds
+# Journal file: E:/vivado/ECOP-18340161-04/ECOP-18340161-04.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Basys3.tcl -notrace

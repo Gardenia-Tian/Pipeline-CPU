@@ -1,0 +1,52 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/updatePC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_select_32_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/keep_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module keep_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/SignZeroExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignZeroExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Count_Addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Register_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Instruction_Divided.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Divided
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/ID_EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/HazardDetect_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HazardDetect_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Forward_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Forward_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/EX_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/DS_32_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DS_32_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/data_select_5_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_select_5_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/data_select_32_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_select_32_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Data_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/br_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module br_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/ALUSrcB_Select.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DS_32_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/add_const.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_const
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sources_1/new/PipeLineCPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PipeLineCPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/ECOP-18340161-04/ECOP-18340161-04.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

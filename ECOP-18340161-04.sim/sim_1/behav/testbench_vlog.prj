@@ -1,0 +1,32 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/updatePC.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/keep_control.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/SignZeroExtend.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Shifter.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Register_File.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/PC.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/MEM_WB.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Instruction_Memory.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Instruction_Divided.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/IF_ID.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/ID_EX.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/HazardDetect_Unit.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Forward_Unit.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/EX_MEM.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/DS_32_3.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/data_select_5_3.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/data_select_32_2.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Data_Mem.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/Control_Unit.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/br_control.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/ALUSrcB_Select.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/ALU.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/add_const.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sources_1/new/PipeLineCPU.v"
+verilog xil_defaultlib  "../../../ECOP-18340161-04.srcs/sim_1/new/testbench.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
